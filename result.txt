@@ -1,0 +1,6 @@
+test_parse_number (fax_test.TestParseNumber) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
